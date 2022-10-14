@@ -1095,7 +1095,7 @@ button:hover {
 .chat-widget {
   position: fixed;
   right: 2rem;
-  bottom: 2rem;
+  bottom: 4rem;
   z-index: 8000;
 }
 .chat-widget--bubble {
